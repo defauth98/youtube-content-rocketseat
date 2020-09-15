@@ -1,0 +1,10 @@
+span {
+  display: inline-block;
+
+  background-color: red;
+  color: white;
+
+  width: 500px;
+  height: 500px;
+  margin-top: 20px;
+}
