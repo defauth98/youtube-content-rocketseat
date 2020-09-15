@@ -1,0 +1,16 @@
+{
+  "name": "knex",
+  "version": "1.0.0",
+  "main": "src/server.js",
+  "author": "Daniel Ribeiro <neto.danibeiro@gmail.com>",
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "knex": "^0.21.1",
+    "nodemon": "^2.0.3",
+    "pg": "^8.0.3"
+  }
+}
