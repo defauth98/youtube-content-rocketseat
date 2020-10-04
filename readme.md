@@ -17,3 +17,6 @@
 
 [Drag and Drop Raiz com a API do HTML, CSS e JavaScript | Masterclass #16
 ](https://www.youtube.com/watch?v=6wn8hpUcEcM&ab_channel=Rocketseat)
+
+[Autenticação no React Native / ReactJS com Context API & Hooks | Masterclass #12
+](https://www.youtube.com/watch?v=KISMYYXSIX8)
