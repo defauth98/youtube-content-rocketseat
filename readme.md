@@ -6,6 +6,9 @@
 
 ## Masterclass
 
+[SQL no Node.js com Sequelize | Masterclass #01
+](https://www.youtube.com/watch?v=Fbu7z5dXcRs&t=3064s)
+
 [TypeScript, o início, de forma prática | MasterClass #07
 ](https://www.youtube.com/watch?v=0mYq5LrQN1s&ab_channel=Rocketseat)
 
@@ -15,8 +18,9 @@
 [SQL no Node.js com Knex.js | Masterclass #13
 ](https://www.youtube.com/watch?v=U7GjS3FuSkA&t=4976s&ab_channel=Rocketseat)
 
+[Autenticação no React Native / ReactJS com Context API & Hooks | Masterclass #12
+](https://www.youtube.com/watch?v=KISMYYXSIX8)
+
 [Drag and Drop Raiz com a API do HTML, CSS e JavaScript | Masterclass #16
 ](https://www.youtube.com/watch?v=6wn8hpUcEcM&ab_channel=Rocketseat)
 
-[Autenticação no React Native / ReactJS com Context API & Hooks | Masterclass #12
-](https://www.youtube.com/watch?v=KISMYYXSIX8)
