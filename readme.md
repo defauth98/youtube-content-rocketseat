@@ -24,3 +24,7 @@
 [Drag and Drop Raiz com a API do HTML, CSS e JavaScript | Masterclass #16
 ](https://www.youtube.com/watch?v=6wn8hpUcEcM&ab_channel=Rocketseat)
 
+## Code/Drops
+
+[Masonry GRID - NOVA FEATURE do CSS 2020 | Code/Drops#67
+](https://www.youtube.com/watch?v=cZvWDTqTGKg&t=413s)
