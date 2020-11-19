@@ -28,3 +28,6 @@
 
 [Masonry GRID - NOVA FEATURE do CSS 2020 | Code/Drops#67
 ](https://www.youtube.com/watch?v=cZvWDTqTGKg&t=413s)
+
+[O último Code/Drops! Script que calcula horas de vídeo | Code/Drops #68
+](https://www.youtube.com/watch?v=faekjlZuTFA)
