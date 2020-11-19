@@ -1,6 +1,6 @@
-### [Canal no youtube da Rocketseat :rocket: ](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg)
+# [Canal no youtube da Rocketseat:rocket:](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg)
 
-#### Descrição do projeto
+## Descrição do projeto
 
 > Código resultante do conteúdo da rocketseat no youtube
 
@@ -31,3 +31,8 @@
 
 [O último Code/Drops! Script que calcula horas de vídeo | Code/Drops #68
 ](https://www.youtube.com/watch?v=faekjlZuTFA)
+
+## NodeJS
+
+[Testes no NodeJS aplicando TDD com Jest | Diego Fernandes
+](https://www.youtube.com/watch?v=2G_mWfG0DZE&t=2832s)
