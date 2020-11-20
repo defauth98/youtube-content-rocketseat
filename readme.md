@@ -26,6 +26,9 @@
 
 ## Code/Drops
 
+[Buscando em 1 milhão de dados em 0.8ms com Rust | Code/Drops #66
+](https://www.youtube.com/watch?v=rNCGwggC1RI)
+
 [Masonry GRID - NOVA FEATURE do CSS 2020 | Code/Drops#67
 ](https://www.youtube.com/watch?v=cZvWDTqTGKg&t=413s)
 
