@@ -26,6 +26,9 @@
 
 ## Code/Drops
 
+[Princípios SOLID em uma API REST com Node.js e TypeScript | Code/Drops #44
+](https://www.youtube.com/watch?v=vAV4Vy4jfkc&t=2225s)
+
 [Buscando em 1 milhão de dados em 0.8ms com Rust | Code/Drops #66
 ](https://www.youtube.com/watch?v=rNCGwggC1RI)
 
