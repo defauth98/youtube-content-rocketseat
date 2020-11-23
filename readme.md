@@ -26,6 +26,9 @@
 
 ## Code/Drops
 
+[Monorepo ReactJS, Node.js & React Native com Yarn Workspaces | Code/Drops #42
+](https://www.youtube.com/watch?v=k5TkBcUTJus)
+
 [Princípios SOLID em uma API REST com Node.js e TypeScript | Code/Drops #44
 ](https://www.youtube.com/watch?v=vAV4Vy4jfkc&t=2225s)
 
