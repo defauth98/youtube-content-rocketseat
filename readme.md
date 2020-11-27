@@ -26,6 +26,9 @@
 
 ## Code/Drops
 
+[DRY, KISS, YAGNI | Code/Drops #27
+](https://www.youtube.com/watch?v=5yJ_cAUrpQc)
+
 [Monorepo ReactJS, Node.js & React Native com Yarn Workspaces | Code/Drops #42
 ](https://www.youtube.com/watch?v=k5TkBcUTJus)
 
