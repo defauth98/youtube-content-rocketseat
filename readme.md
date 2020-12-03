@@ -9,6 +9,9 @@
 [SQL no Node.js com Sequelize | Masterclass #01
 ](https://www.youtube.com/watch?v=Fbu7z5dXcRs&t=3064s)
 
+[Background jobs (filas) no Node.js com Redis | Masterclass #02
+](https://www.youtube.com/watch?v=uonKHztGhko&list=PL85ITvJ7FLoiNndfuEs2So-MFLSMvBmmD&index=10)
+
 [TypeScript, o início, de forma prática | MasterClass #07
 ](https://www.youtube.com/watch?v=0mYq5LrQN1s&ab_channel=Rocketseat)
 
