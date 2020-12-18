@@ -1,7 +1,7 @@
-import { Request, Response } from "express";
-import EmailService from "../services/emailService";
+import { Request, Response } from 'express';
+import EmailService from '../services/emailService';
 
-const users = [{ name: "daniel", email: "neto.daniribeiro@gmail.com" }];
+const users = [{ name: 'daniel', email: 'neto.daniribeiro@gmail.com' }];
 
 export default {
   async index(req: Request, res: Response) {
@@ -13,12 +13,12 @@ export default {
 
     emailService.sendMail({
       to: {
-        name: "Daniel Ribeiro",
-        email: "neto.daniribeiro",
+        name: 'Daniel Ribeiro',
+        email: 'neto.daniribeiro',
       },
       message: {
-        subject: "Bem-vindo ao sistema",
-        body: "Seja bem-vindo",
+        subject: 'Bem-vindo ao sistema',
+        body: 'Seja bem-vindo',
       },
     });
 
